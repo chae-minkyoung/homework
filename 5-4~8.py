@@ -4,9 +4,9 @@
 a='Ducky'
 b='Gourdface'
 c='Spitzy'
-print('an English submarine 이름은 ({} Mc{}face)로 지어졌다.'.format(a,a))
-print('an Australian racehorse 이름은 ({} Mc{}face)로 지어졌다.'.format(b,b))
-print('an Swedish train 이름은 ({} Mc{}face)로 지어졌다.'.format(c,c))
+print(f'an English submarine 이름은 ({a} Mc{a}face)로 지어졌다.')
+print('an Australian racehorse 이름은 ({b} Mc{b}face)로 지어졌다.')
+print(f'an Swedish train 이름은 ({c} Mc{c}face)로 지어졌다.')
 
 
 
